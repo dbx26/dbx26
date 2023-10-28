@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bandhuG
-- 👀 I’m interested in Node js
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on any backend related to Nodejs
+- 👀 I’m a Fullstack developer with technologies Angular & Node.js
+- 💞️ I’m looking to collaborate on any projects related to MEAN stack.
 - 📫 How to reach me mail me at dbgupta4@gmail.com
 
 <!---
