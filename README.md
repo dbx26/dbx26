@@ -1,5 +1,39 @@
 # 💫 About Me:
-- 👋 Hi, I’m @dbx26<br>- 👀 I’m a Fullstack developer with expertise in Angular and Node.js, passionate about building scalable web applications.<br>- 💻 I’ve worked on various projects including HR solutions , Advanced Project Monitoring & Equipment Commissioning Tool, E-Commerce, and Music distribution platforms.<br>- 🚀 I’m looking to collaborate on projects related to the Angular & Node.js, and I'm always excited to solve complex problems and scale systems.<br>- 📫 How to reach me mail me at dbgupta4@gmail.com
+- Hi, I’m Deshbandhu Gupta | DB | @dbx26
+- Full-Stack Software Engineer, Systems Architect & product-oriented builder creating scalable, secure, high-performance digital platforms.
+
+- I design and deliver end-to-end systems from product thinking and architecture planning to database design, backend APIs, frontend engineering, and cloud deployment.
+
+- Core Technologies<br>
+• Angular • React • Node.js • NestJS • Laravel • .NET<br>
+• PostgreSQL • MySQL • SQL Server • Snowflake • MongoDB • DynamoDB<br>
+• REST APIs • Microservices • RBAC • OAuth2/JWT • Okta<br>
+• AWS (Serverless & Cloud Architectures)<br>
+• Stored Procedures • Triggers • Query Optimization • Workflow Architecture<br>
+• Enterprise Reporting • SaaS Platform Development • Payment Integrations<br>
+
+- Industry Experience<br>
+• Government (e-Governance) & Public Sector Systems<br>
+• Enterprise SaaS Platforms<br>
+• FinTech & Financial Services<br>
+• Healthcare & HealthTech<br>
+• E-commerce & Retail<br>
+• HR, Payroll & Workforce Systems<br>
+• EdTech & Learning Platforms<br>
+• Logistics & Supply Chain<br>
+• Inventory & Asset Tracking<br>
+• Real Estate & Property Tech<br>
+• Project Monitoring & Analytics<br>
+• Content Distribution & Media Platforms<br>
+• Startup MVPs & Product Engineering<br>
+
+- Focused on clean architecture, scalability, performance optimization, security, and long-term maintainability.
+
+- Product-driven mindset with experience translating business requirements into scalable technical solutions, aligning engineering with roadmap goals, and collaborating closely with stakeholders.
+
+- Open to strategic collaborations, product partnerships, consulting, and impactful engineering engagements.
+
+- 📫 Reach me: dbgupta4@gmail.com
 
 
 ## 🌐 Socials:
